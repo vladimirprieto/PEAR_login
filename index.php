@@ -1,6 +1,6 @@
  <?php
 // In this test, the file is named "index.php".
-
+//este es un comentario de prueba 
 require_once "Auth.php";
 require_once "con_db.php";
 
