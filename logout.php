@@ -11,3 +11,4 @@ if ($_GET['action'] == "logout" && $a->checkAuth()) {
     $a->start();
     header("Location: index.php");
 }
+
